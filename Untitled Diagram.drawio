@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T17:36:24.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.100.4896.127 Safari/537.36" version="17.4.0" etag="wjr580ShA9BgfdomVzex" type="github"><diagram id="2D8r_E-0RihEFsOVlYVm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-19T13:35:03.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.100.4896.127 Safari/537.36" etag="sravPJeUSNYRpL4vzpFx" version="17.4.0" type="github">
+  <diagram id="2D8r_E-0RihEFsOVlYVm" name="Page-1">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="E4T6ohRMV8p7hEPFgj1p-5" target="E4T6ohRMV8p7hEPFgj1p-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-42" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="E4T6ohRMV8p7hEPFgj1p-32">
+          <mxGeometry x="-0.1881" y="1" relative="1" as="geometry">
+            <mxPoint y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-5" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Auth0&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;(Authorization Server)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+          <mxGeometry x="45" y="80" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="E4T6ohRMV8p7hEPFgj1p-6" target="E4T6ohRMV8p7hEPFgj1p-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-39" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="E4T6ohRMV8p7hEPFgj1p-36">
+          <mxGeometry x="-0.5388" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="E4T6ohRMV8p7hEPFgj1p-6" target="E4T6ohRMV8p7hEPFgj1p-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-43" value="4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="E4T6ohRMV8p7hEPFgj1p-37">
+          <mxGeometry x="-0.3896" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;SPA&lt;br&gt;(Client)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="605" y="80" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-21" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Backend APIs&lt;br&gt;(Resource Server)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="605" y="440" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="E4T6ohRMV8p7hEPFgj1p-28" target="E4T6ohRMV8p7hEPFgj1p-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-44" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="E4T6ohRMV8p7hEPFgj1p-31">
+          <mxGeometry x="0.4567" y="1" relative="1" as="geometry">
+            <mxPoint y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="E4T6ohRMV8p7hEPFgj1p-28" target="E4T6ohRMV8p7hEPFgj1p-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-40" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="E4T6ohRMV8p7hEPFgj1p-33">
+          <mxGeometry x="0.6178" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="285" y="280" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Browser (User Agent)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="285" y="280" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=20;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="E4T6ohRMV8p7hEPFgj1p-28" target="E4T6ohRMV8p7hEPFgj1p-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="420" as="sourcePoint" />
+            <mxPoint x="485" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-30" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=20;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="E4T6ohRMV8p7hEPFgj1p-28" target="E4T6ohRMV8p7hEPFgj1p-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="305" y="350" as="sourcePoint" />
+            <mxPoint x="575" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E4T6ohRMV8p7hEPFgj1p-28" target="E4T6ohRMV8p7hEPFgj1p-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="320" as="sourcePoint" />
+            <mxPoint x="485" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-41" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="E4T6ohRMV8p7hEPFgj1p-34">
+          <mxGeometry x="0.51" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-38" value="&lt;h1&gt;Token Based Authentication Flow&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="125" y="10" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-45" value="&lt;h1&gt;&lt;ol style=&quot;box-sizing: border-box ; font-size: 16px ; margin: 0px 0px 0.85em ; padding: 0px 0px 0px 2em ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-weight: 400 ; letter-spacing: 0.2px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: inherit&quot;&gt;&lt;p style=&quot;box-sizing: border-box ; font-size: inherit ; margin-top: 0px ; margin-bottom: 0.85em&quot;&gt;The app initiates the flow and redirects the browser to Auth0 (specifically to the&amp;nbsp;&lt;code style=&quot;box-sizing: border-box ; font-size: 0.85em ; background: 0px 0px rgb(247 , 247 , 247) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; direction: ltr ; margin: 0px ; padding: 0.2em ; border: none&quot;&gt;/authorize&lt;/code&gt;&lt;span style=&quot;box-sizing: border-box ; background-position: 0px 0px&quot;&gt;&amp;nbsp;endpoint&lt;/span&gt;), so the user can authenticate.&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: inherit&quot;&gt;&lt;p style=&quot;box-sizing: border-box ; font-size: inherit ; margin-top: 0px ; margin-bottom: 0.85em&quot;&gt;Auth0 authenticates the user. The first time the user goes through this flow a consent page will be shown where the permissions that will be given to the Client are listed (e.g., post messages, list contacts, and so forth).&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: inherit&quot;&gt;&lt;p style=&quot;box-sizing: border-box ; font-size: inherit ; margin-top: 0px ; margin-bottom: 0.85em&quot;&gt;Auth0 redirects the user to the app with an&amp;nbsp;&lt;code style=&quot;box-sizing: border-box ; font-size: 0.85em ; background: 0px 0px rgb(247 , 247 , 247) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; direction: ltr ; margin: 0px ; padding: 0.2em ; border: none&quot;&gt;access_token&lt;/code&gt;&amp;nbsp;in the hash fragment of the URI. The app can now extract the tokens from the hash fragment. In a Single Page Application (SPA) this would be done using JavaScript.&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: inherit&quot;&gt;&lt;p style=&quot;box-sizing: border-box ; font-size: inherit ; margin-top: 0px ; margin-bottom: 0.85em&quot;&gt;The app can use the&amp;nbsp;&lt;code style=&quot;box-sizing: border-box ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 0.85em ; direction: ltr ; margin: 0px ; padding: 0.2em ; border: none ; background-color: rgb(247 , 247 , 247)&quot;&gt;access_token&lt;/code&gt;&amp;nbsp;to call an API on behalf of the user.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="30" y="560" width="790" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="E4T6ohRMV8p7hEPFgj1p-46" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Source:&amp;nbsp;https://kmaida.gitbooks.io/authenticate-angular-with-auth0/content/intro-to-token-authentication.html&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="800" width="590" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
